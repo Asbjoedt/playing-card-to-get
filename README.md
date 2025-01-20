@@ -15,7 +15,7 @@ A light-hearted card game about creating distance to your opponents – but not 
 ## Card Types
 52 cards divided in 4 different types.
 
-* Construction cards – Build or deconstruct boundaries
-* Agility cards – Move your character
-* Psychology cards – Control your opponents
-* Magic cards – Teleport your character
+* **Construction cards** – Build or deconstruct boundaries
+* **Agility cards** – Move your character
+* **Psychology cards** – Control your opponents
+* **Magic cards** – Teleport your character
